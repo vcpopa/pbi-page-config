@@ -1,0 +1,9 @@
+numpy
+pandas
+sqlalchemy
+pyodbc
+azure-keyvault-secrets
+azure-identity
+azure-storage-file-share
+adal
+requests
